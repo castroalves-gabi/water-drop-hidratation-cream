@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#hidratation-cream-water-drop
-=======
 # CSS: Hidratation Cream - Water Drop
 
 <b>English:</b>
@@ -18,6 +15,3 @@ Utilisant CSS pour donner un effet dynamique à la page. Dans ce projet, la fonc
 <br>
 <br>
 ![Captura de tela de 2023-03-21 12-11-52](https://user-images.githubusercontent.com/117552601/226653911-0cd8de2e-71eb-4c62-a64e-851076427e92.png)
-
->>>>>>> 3bf34bad897b7063f5b983bc7ab73155f57f2e4e
-# water-drop-hidratation-cream
